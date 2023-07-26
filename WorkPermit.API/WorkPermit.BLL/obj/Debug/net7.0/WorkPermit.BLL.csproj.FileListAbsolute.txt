@@ -1,0 +1,15 @@
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\bin\Debug\net7.0\WorkPermit.BLL.deps.json
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\bin\Debug\net7.0\WorkPermit.BLL.dll
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\bin\Debug\net7.0\WorkPermit.BLL.pdb
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\bin\Debug\net7.0\WorkPermit.DAL.dll
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\bin\Debug\net7.0\WorkPermit.DAL.pdb
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.csproj.AssemblyReference.cache
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.AssemblyInfoInputs.cache
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.AssemblyInfo.cs
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.csproj.CopyComplete
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.dll
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\refint\WorkPermit.BLL.dll
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\WorkPermit.BLL.pdb
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.BLL\obj\Debug\net7.0\ref\WorkPermit.BLL.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B9TBzolEYt8Xp6YUfvGbqc9x/DNbO4lm/ubfI5X47go=",
+  "Source": "WorkPermit.API",
+  "BasePath": "_content/WorkPermit.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

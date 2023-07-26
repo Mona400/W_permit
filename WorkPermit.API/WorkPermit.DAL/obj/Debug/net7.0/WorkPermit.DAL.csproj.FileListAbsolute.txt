@@ -1,0 +1,14 @@
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\bin\Debug\net7.0\WorkPermit.DAL.deps.json
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\bin\Debug\net7.0\WorkPermit.DAL.runtimeconfig.json
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\bin\Debug\net7.0\WorkPermit.DAL.dll
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\bin\Debug\net7.0\WorkPermit.DAL.pdb
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.csproj.AssemblyReference.cache
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.AssemblyInfoInputs.cache
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.AssemblyInfo.cs
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.csproj.CoreCompileInputs.cache
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.dll
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\refint\WorkPermit.DAL.dll
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.pdb
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\WorkPermit.DAL.genruntimeconfig.cache
+C:\Users\COMPU FAYEZ\Desktop\WorkPermit\WorkPermit.API\WorkPermit.DAL\obj\Debug\net7.0\ref\WorkPermit.DAL.dll
